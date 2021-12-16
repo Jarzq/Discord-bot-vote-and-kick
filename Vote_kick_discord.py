@@ -36,4 +36,4 @@ async def kick(ctx, member: discord.Member, reason = None):
             await member.kick(reason=reason)
 
     
-client.run('OTE5OTg4ODg1OTczNTE2MzUw.Ybd0ag.T_XJ4agYNmeG8lL1QWgsh5hFuvk')
+client.run('Paste your bot token here')
